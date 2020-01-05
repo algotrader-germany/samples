@@ -1,0 +1,1 @@
+mklink /j %1\MQL4\Experts\samples %~dp0
