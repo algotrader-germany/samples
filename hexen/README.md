@@ -9,3 +9,5 @@ Based on [Heiße Hexen](https://www.andre-stagge.de/heisse-hexen/) by André Sta
 
 Note that "no later than" settings are early because of missing data in tick data suite.
 
+![graph](hexen-backtest1-graph.png)
+![report](hexen-backtest1-report.png)
